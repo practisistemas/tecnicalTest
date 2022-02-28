@@ -1,7 +1,7 @@
 # PRACTISISTEMAS 💻
 
 ## Prueba técnica Laravel
-Esta es una guía introductoria 📋 que el **team de TI Practisistemas** 💻 diseño para la vacante de FullStack. Aquí encontrarás toda la información esencial para el desarrollo de esta prueba.
+Esta es una guía introductoria 📋 que el **team de TI Practisistemas** 💻 diseño para la vacante de Software Developer. Aquí encontrarás toda la información esencial para el desarrollo de esta prueba.
 
 - Ante cualquier duda que tengas por favor comunicate a \
 📧 j.correal@practisistemas.com. **(Jose Correal - Gerente de TI)** \
