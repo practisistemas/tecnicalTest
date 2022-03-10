@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'ProductController@index');
+Route::post('products', 'ProductController@store')->name('products.store');
+Route::delete('products/{product}', 'ProductController@destroy')->name('products.destroy');
+
+
